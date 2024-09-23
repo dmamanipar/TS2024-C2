@@ -3,4 +3,4 @@ admin/sonar
 sonar
 
 Token:
-squ_190b1bf50380e87c2ec68caaa9bf70530408b66a
+squ_2933a44d9498f9529656e08496084062a2925efc
